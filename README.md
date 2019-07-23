@@ -21,7 +21,7 @@ pipenv
 1. Fork and clone this repo.
 
 ```
-$ git clone http://github.com/gurpreetsingh00885/safeher.git
+$ git clone https://github.com/iknoorjobs/safe-path.git
 ```
 
 2. Change working directory into the repo, activate your virtual environment and install the backend dependencies.
